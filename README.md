@@ -2,98 +2,97 @@
 
 **SWE AI Intern @ Ethara AI**  |  Greater Noida, India  |  Graduating Jun 2026
 
-Innovative Software Engineer specializing in designing intelligent systems, building scalable full-stack applications, and integrating AI-driven technologies. Experienced in constructing Python data pipelines, optimizing LLMs, and architecting real-time communication suites.
+I am a developer who loves building real-time applications and working with AI pipelines. Right now, I'm working as a SWE AI Intern at Ethara AI, where I build evaluation systems and data pipelines for LLMs. I enjoy building things, competing in hackathons, and turning side projects into complete, production-ready apps.
 
-Currently open to **Full-Stack, Frontend, & AI Developer** roles in Delhi NCR, Bangalore & Remote.
+Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, Bangalore, or Remote.
 
 📫 [adarshpandey6364@gmail.com](mailto:adarshpandey6364@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  ·  [Portfolio](https://github.com/Adarshpandey-007/portfolio)
 
 ---
 
-### 🛠️ Core Competencies
+### 🛠️ Tech Stack
 
-* **AI & LLM Engineering** — Hugging Face, LLM SFT & DPO optimization, Gemini TTS/STT APIs, OpenCV, Prompt Engineering, Agentic AI (n8n)
-* **Full Stack Web** — React 19, Next.js (App Router), React Native, Node.js, Express.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript
-* **Databases & Cloud** — PostgreSQL (Supabase), MongoDB, MySQL, Firebase, DBMS, Basic AWS, Google Cloud Platform (Firestore)
-* **Real-time & Communications** — WebRTC (P2P Mesh calling), LiveKit SFU, WebSockets (Supabase Realtime)
+* **Languages** — JavaScript, TypeScript, Python, C, basic PHP
+* **Frontend/Backend** — Next.js (App Router), React 19, React Native, Node.js, Express.js, Tailwind CSS
+* **Databases & Auth** — PostgreSQL (Supabase), MongoDB, Firebase (Firestore), MySQL
+* **Real-time & AI/ML** — WebRTC (P2P Mesh), LiveKit SFU, Hugging Face, Gemini STT/TTS APIs, OpenCV, n8n
 
 ---
 
-### 💼 Professional Experience
+### 💼 Work Experience
 
 **SWE AI Intern** · *Ethara AI (Green Rider Technology LLP)* _(Feb 2026 – Present)_
-* **Backend & Pipeline Engineering:** Developed Python-based data pipelines using Hugging Face libraries, structuring complex workflows to optimize LLMs for instruction-following and safety.
-* **Automated Testing Suites:** Engineered robust Python evaluation frameworks utilizing programmatic logic to systematically test, benchmark, and report on generative system accuracy.
-* **Systems Alignment:** Contributed to alignment workflows (SFT, DPO) for generative AI models, ensuring reliable and high-quality structured outputs.
+* **LLM Workflows & Pipelines:** Created Python-based data pipelines with Hugging Face libraries, structuring workflows to tune models for safety and instruction-following.
+* **Testing & Benchmarks:** Built Python evaluation frameworks using programmatic logic to benchmark AI reasoning capabilities and accuracy rates.
+* **Alignment Tuning:** Worked on SFT and DPO optimization steps to ensure models consistently output clean, structured data for applications.
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Projects
 
-#### 🌊 **FloatChat** — *Conversational Ocean Data Explorer & Agentic RAG*
-* **Co-Authored Research & Final Year Project:** Developed a hypergraph-augmented agentic RAG platform for Indian Ocean Argo float datasets (MoES/INCOIS SIH-25040).
-* **Architecture:** Next.js (App Router), React 18, Zustand, Tailwind CSS, PostgreSQL/PostGIS + pgvector, Leaflet (Maps), Plotly (Plots), Python (xarray NetCDF parser), Gemini API.
-* **Engineering Achievements:**
-  * Designed a unified chat and synchronized visualization workspace containing Map (Leaflet), Profile Plot (Plotly), and summary Table panels.
-  * Implemented coordinate-based nearest float queries by parsing regex coordinates and calculating haversine great-circle distances.
-  * Engineered a Python-based offline ingestion tool to recursively index NetCDF (.nc) archives into structural JSON caches.
-  * Built database migration tables (PostGIS geometries, pgvector embeddings) for future geospatial and vector similarity search.
+#### 🌊 **FloatChat**
+*Conversational Ocean Data Explorer & Agentic RAG (Final Year Project)*
+* **Stack:** Next.js (App Router), React 18, Zustand, PostGIS, pgvector, Leaflet, Plotly, Python (xarray), Gemini API
+* Co-authored research on hypergraph-augmented agentic RAG for Indian Ocean Argo float datasets (MoES/INCOIS SIH-25040).
+* Designed a tabbed workspace syncing leaflet maps, Plotly depth-profile graphs (salinity/temperature), and summary tables.
+* Coded regex-based coordinate parsers to calculate haversine distances and center map views dynamically.
+* Wrote Python indexing scripts to read NetCDF (.nc) oceanography files and output structured JSON caches for faster client loading.
 * [Repository](https://github.com/Adarshpandey-007/FloatChat)
 
-#### 🌐 **Connect V4** — *Multi-User Collaboration Suite*
-* **Architecture:** Next.js (App Router), Supabase (Auth, DB, Storage, Realtime), WebRTC / LiveKit SFU, React 19, Tailwind CSS v4.
-* **Engineering Achievements:**
-  * Developed a P2P Mesh calling engine, later migrated to a **LiveKit SFU** architecture supporting 50+ concurrent participants.
-  * Built the **"Vault" storage ecosystem** for sharing raw uncompressed media, complete with granular, database-level role-based permissions (RLS).
-  * Implemented local **End-to-End Encryption (E2EE)** for messages using the native Web Crypto API.
-  * Optimized page restores by persisting WebRTC states to sessionStorage, automatically restoring broken peer connections on refresh.
-* [Repository](https://github.com/Adarshpandey-007/connect-v1) *(Private Repository)*
+#### 🌐 **Connect V4**
+*Real-time collaboration suite with mesh calling & uncompressed storage vault*
+* **Stack:** Next.js (App Router), React 19, Supabase (Auth, DB, Realtime, Storage), WebRTC, LiveKit SFU, Web Crypto API
+* Built a custom WebRTC P2P calling engine for group calls, later migrating to a LiveKit SFU setup to handle 50+ concurrent users.
+* Programmed "The Vault" storage system, using custom PostgreSQL Row-Level Security (RLS) tables to bypass compression and share raw files securely.
+* Handled connection drops and page refreshes by persisting WebRTC states to sessionStorage for instant re-pairing.
+* Added local message encryption (E2EE) on the client side using the browser's native Web Crypto API.
+* [Repository](https://github.com/Adarshpandey-007/connect-v1) *(Private Repo)*
 
-#### 🏫 **Pragati** — *Role-Based School Management Platform*
-* **Architecture:** Next.js, React 19, TypeScript, Tailwind CSS, Express.js, JWT, REST API.
-* **Engineering Achievements:**
-  * Designed a modular, role-based layout tailored for Admin, Government, Principal, Teacher, and Student roles.
-  * Built dashboard-driven information architecture with secure JWT authorization and permission-scoped routes.
-  * Structured deployment with frontend/backend hosting decoupling and health-check monitoring.
-* [Repository](https://github.com/Adarshpandey-007/Pragati) *(Placeholder)*
-
-#### 📝 **Current Affairs Prep** — *AI-Powered Adaptive Test Platform*
-* **Architecture:** Next.js (App Router), React 19, Cloud Firestore, Firebase Auth, Gemini 3.5 Flash REST API, Vanilla CSS.
-* **Engineering Achievements:**
-  * Engineered a bilingual preparation tool for UP PCS/UPSC exams with real-time switching between English & Hindi question banks.
-  * Integrated **Gemini 3.5 Flash** to generate custom, adaptive mock tests dynamically from syllabus categories.
-  * Programmed a custom drag-and-drop question bank scraper supporting English (tab-delimited) and Hindi (Devanagari regex pattern matching).
-  * Implemented database hardening and secure Admin validation middleware (Firebase Admin SDK token verification) gating access to authorized emails.
+#### 📝 **Current Affairs Prep**
+*Adaptive bilingual quiz platform for competitive civil service exams*
+* **Stack:** Next.js (App Router), React 19, Cloud Firestore, Firebase Auth, Gemini 3.5 Flash API, CSS
+* Created a bilingual system allowing aspirants to toggle between English and Hindi question banks instantly.
+* Hooked up Gemini 3.5 Flash to generate custom adaptive mock tests based on user-typed topics.
+* Developed a drag-and-drop question scraper parser that handles English tab-delimited text and Hindi Devanagari regex layouts.
+* Secured the admin dashboard via Firebase Token verification, restricting actions to the verified admin email.
 * [Repository](https://github.com/Adarshpandey-007/current-affairs-prep)
 
-#### 🌾 **KrishiSetu** — *AI-Driven Agricultural Advisory Platform*
-* **Architecture:** React Native, Node.js, Python, MongoDB, Hugging Face.
-* **Engineering Achievements:**
-  * Built an intelligent crop and soil-advisory system helping increase crop yield for small-scale farmers.
-  * Developed a "voice-first" interface with native Speech-to-Text (STT) and a custom TTS engine (44.1kHz WAV normalization) for rural users.
-  * Integrated pest/disease detection using computer vision alongside a live Mandi tracker.
+#### 🏫 **Pragati**
+*Role-based school management portal*
+* **Stack:** Next.js, React 19, TypeScript, Tailwind CSS, Express.js, JWT, REST APIs
+* Designed dedicated dashboard layouts and navigation scopes for Admins, Government observers, Principals, Teachers, and Students.
+* Set up secure JWT authentication to protect routes and enforce permission checks on both the frontend and backend.
+* Decoupled frontend and backend hosting with health-check monitoring and demo data persistence.
+* [Repository](https://github.com/Adarshpandey-007/Pragati) *(Placeholder)*
+
+#### 🌾 **KrishiSetu**
+*AI agricultural advisor with voice-first interface*
+* **Stack:** React Native, Node.js, Python, MongoDB, Hugging Face, STT/TTS APIs
+* Built a Crop/Soil advisory system that targets location-specific advisory to increase yield for small-scale farmers.
+* Designed a voice-first UX integrating Speech-to-Text and a custom TTS engine (44.1kHz WAV normalization) to support low-literacy users in regional languages.
+* Added computer vision for crop disease detection via image uploads and a real-time Mandi price tracker.
 * [Repository](https://github.com/Adarshpandey-007/krishisetu)
 
-#### 🧠 **HealthEd Pro** — *AI Mental Health Platform*
-* **Architecture:** React, Node.js, Express.js, Tailwind CSS, MongoDB, Gemini API, TensorFlow.js.
-* **Engineering Achievements:**
-  * Created self-assessment tests (GAD-7, PHQ-9, PTSD scale) with severity-based dynamic wellness plans.
-  * Built a user-friendly, responsive dashboard for real-time support and anonymous chats.
-  * **Award:** Won 1st Place among 250+ teams at a university hackathon for outstanding innovation in empathetic AI.
+#### 🧠 **HealthEd Pro**
+*Hackathon-winning AI mental health platform*
+* **Stack:** React, Express, MongoDB, Gemini API, TensorFlow.js, Tailwind CSS
+* Won 1st place out of 250+ teams at a university hackathon (collaborating with medical professionals from Santosh Medical College).
+* Implemented GAD-7, PHQ-9, and PTSD self-assessments with dynamic scoring and mental wellness recommendation plans.
+* Programmed anonymous chat rooms and responsive dashboards for real-time support.
 * [Live Demo](https://health-ed-pro.netlify.app) · [Repository](https://github.com/Adarshpandey-007/HealthEdPro-React)
 
 ---
 
-### 🏆 Leadership & Extracurriculars
+### 🏆 Community & Extracurriculars
 
-* **Vice President** @ **CodeX Community** — Lead and manage a technical club of 300+ students, organizing developer events and coding workshops.
-* **Grand Finale Mentor** @ **Smart India Hackathon (SIH) 2025** — Mentored a team building an automated attendance system for rural schools.
-* **First Place** @ **CodeChef Hackathon** (VGI campus level).
-* **Debater** — Awarded 1st and 2nd places in Parliamentary Debates on national industrialization policies.
+* **Vice President** @ **CodeX Community**: Running a developer club of 300+ students, hosting hackathons, workshops, and study groups.
+* **Mentor** @ **Smart India Hackathon (SIH) 2025**: Guided a finalist team that built an automated attendance tracking tool for rural schools.
+* **1st Place** @ **CodeChef Hackathon** (VGI campus level).
+* **Parliamentary Debate Winner**: Awarded 1st and 2nd places in debates on reservation policies and industrialization.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey-007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Adarsh's GitHub Stats" />
@@ -111,10 +110,4 @@ Currently open to **Full-Stack, Frontend, & AI Developer** roles in Delhi NCR, B
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarshpandey-007/Adarshpandey-007/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Adarshpandey-007/Adarshpandey-007/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-
-<p align="center">
-  <i>"Simplicity is the soul of efficiency." – Austin Freeman</i>
 </p>
