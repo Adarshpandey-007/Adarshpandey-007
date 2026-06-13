@@ -4,7 +4,7 @@
 
 2 production internships and freelance technical research. Co-authored research on a novel RAG architecture for a government-backed problem statement (MoES/INCOIS SIH-25040). 1st place hackathon winner.
 
-Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, Bangalore, or Remote.
+Currently open to **Full-Stack/MERN roles, Frontend, or AI Developer** roles in Delhi NCR, Bangalore, or Remote.
 
 [adarshpandey6364@gmail.com](mailto:adarshpandey6364@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/adarsh-pandey07/)
 
