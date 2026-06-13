@@ -10,7 +10,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * **Languages** — JavaScript, TypeScript, Python, C, basic PHP
 * **Frontend/Backend** — Next.js (App Router), React 19, React Native, Node.js, Express.js, Tailwind CSS
@@ -19,7 +19,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 
 **SWE AI Intern** · *Ethara AI (Green Rider Technology LLP)* _(Feb 2026 – Present)_
 * **LLM Workflows & Pipelines:** Created Python-based data pipelines with Hugging Face libraries, structuring workflows to tune models for safety and instruction-following.
@@ -28,9 +28,9 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 
 ---
 
-### 🚀 Projects
+### Projects
 
-#### 🌊 **FloatChat**
+#### **FloatChat**
 *Conversational Ocean Data Explorer & Agentic RAG (Final Year Project)*
 * **Stack:** Next.js (App Router), React 18, Zustand, PostGIS, pgvector, Leaflet, Plotly, Python (xarray), Gemini API
 * Co-authored research on hypergraph-augmented agentic RAG for Indian Ocean Argo float datasets (MoES/INCOIS SIH-25040).
@@ -39,7 +39,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 * Wrote Python indexing scripts to read NetCDF (.nc) oceanography files and output structured JSON caches for faster client loading.
 * [Repository](https://github.com/Adarshpandey-007/FloatChat)
 
-#### 🌐 **Connect V4**
+#### **Connect V4**
 *Real-time collaboration suite with mesh calling & uncompressed storage vault*
 * **Stack:** Next.js (App Router), React 19, Supabase (Auth, DB, Realtime, Storage), WebRTC, LiveKit SFU, Web Crypto API
 * Built a custom WebRTC P2P calling engine for group calls, later migrating to a LiveKit SFU setup to handle 50+ concurrent users.
@@ -48,7 +48,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 * Added local message encryption (E2EE) on the client side using the browser's native Web Crypto API.
 * [Repository](https://github.com/Adarshpandey-007/connect-v1) *(Private Repo)*
 
-#### 📝 **Current Affairs Prep**
+#### **Current Affairs Prep**
 *Adaptive bilingual quiz platform for competitive civil service exams*
 * **Stack:** Next.js (App Router), React 19, Cloud Firestore, Firebase Auth, Gemini 3.5 Flash API, CSS
 * Created a bilingual system allowing aspirants to toggle between English and Hindi question banks instantly.
@@ -57,7 +57,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 * Secured the admin dashboard via Firebase Token verification, restricting actions to the verified admin email.
 * [Repository](https://github.com/Adarshpandey-007/current-affairs-prep)
 
-#### 🏫 **Pragati**
+#### **Pragati**
 *Role-based school management portal*
 * **Stack:** Next.js, React 19, TypeScript, Tailwind CSS, Express.js, JWT, REST APIs
 * Designed dedicated dashboard layouts and navigation scopes for Admins, Government observers, Principals, Teachers, and Students.
@@ -65,7 +65,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 * Decoupled frontend and backend hosting with health-check monitoring and demo data persistence.
 * [Repository](https://github.com/Adarshpandey-007/Pragati) *(Placeholder)*
 
-#### 🌾 **KrishiSetu**
+#### **KrishiSetu**
 *AI agricultural advisor with voice-first interface*
 * **Stack:** React Native, Node.js, Python, MongoDB, Hugging Face, STT/TTS APIs
 * Built a Crop/Soil advisory system that targets location-specific advisory to increase yield for small-scale farmers.
@@ -73,7 +73,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 * Added computer vision for crop disease detection via image uploads and a real-time Mandi price tracker.
 * [Repository](https://github.com/Adarshpandey-007/krishisetu)
 
-#### 🧠 **HealthEd Pro**
+#### **HealthEd Pro**
 *Hackathon-winning AI mental health platform*
 * **Stack:** React, Express, MongoDB, Gemini API, TensorFlow.js, Tailwind CSS
 * Won 1st place out of 250+ teams at a university hackathon (collaborating with medical professionals from Santosh Medical College).
@@ -83,7 +83,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 
 ---
 
-### 🏆 Community & Extracurriculars
+### Community & Extracurriculars
 
 * **Vice President** @ **CodeX Community**: Running a developer club of 300+ students, hosting hackathons, workshops, and study groups.
 * **Mentor** @ **Smart India Hackathon (SIH) 2025**: Guided a finalist team that built an automated attendance tracking tool for rural schools.
@@ -92,7 +92,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey-007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Adarsh's GitHub Stats" />
@@ -102,7 +102,7 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
