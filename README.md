@@ -6,7 +6,7 @@ I am a developer who loves building real-time applications and working with AI p
 
 Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, Bangalore, or Remote.
 
-📫 [adarshpandey6364@gmail.com](mailto:adarshpandey6364@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)  ·  [Portfolio](https://github.com/Adarshpandey-007/portfolio)
+ [adarshpandey6364@gmail.com](mailto:adarshpandey6364@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/adarsh-pandey07/)  <!-- ·  [Portfolio](https://github.com/Adarshpandey-007/portfolio) -->
 
 ---
 
