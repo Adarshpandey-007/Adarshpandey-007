@@ -1,12 +1,12 @@
 # Adarsh Pandey
 
-**SWE AI Intern @ Ethara AI**  |  Greater Noida, India  |  Graduating Jun 2026
+**Full Stack · AI/ML · Open Source**  |  Greater Noida, India  |  Graduating Jun 2026
 
-I am a developer who loves building real-time applications and working with AI pipelines. Right now, I'm working as a SWE AI Intern at Ethara AI, where I build evaluation systems and data pipelines for LLMs. I enjoy building things, competing in hackathons, and turning side projects into complete, production-ready apps.
+2 production internships and freelance technical research. Co-authored research on a novel RAG architecture for a government-backed problem statement (MoES/INCOIS SIH-25040). 1st place hackathon winner.
 
 Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, Bangalore, or Remote.
 
- [adarshpandey6364@gmail.com](mailto:adarshpandey6364@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/adarsh-pandey07/)  <!-- ·  [Portfolio](https://github.com/Adarshpandey-007/portfolio) -->
+[adarshpandey6364@gmail.com](mailto:adarshpandey6364@gmail.com)  ·  [LinkedIn](https://www.linkedin.com/in/adarsh-pandey07/)
 
 ---
 
@@ -21,10 +21,19 @@ Currently open to **Full-Stack, Frontend, or AI Developer** roles in Delhi NCR, 
 
 ### Work Experience
 
-**SWE AI Intern** · *Ethara AI (Green Rider Technology LLP)* _(Feb 2026 – Present)_
-* **LLM Workflows & Pipelines:** Created Python-based data pipelines with Hugging Face libraries, structuring workflows to tune models for safety and instruction-following.
-* **Testing & Benchmarks:** Built Python evaluation frameworks using programmatic logic to benchmark AI reasoning capabilities and accuracy rates.
-* **Alignment Tuning:** Worked on SFT and DPO optimization steps to ensure models consistently output clean, structured data for applications.
+**SWE AI Intern** · *Ethara AI (Green Rider Technology LLP)* _(Feb 2026 – May 2026)_
+* Created Python-based data pipelines using Hugging Face to optimize LLMs for safety and instruction-following.
+* Built evaluation frameworks to test, benchmark, and report on generative system accuracy.
+* Worked on SFT and DPO optimization steps to ensure models consistently output clean, structured data.
+
+**Generative AI Intern** · *SURE proED* _(Oct 2025 – Dec 2025)_
+* Developed NLP and Computer Vision prototypes, including a capstone AI learning assistant.
+* Applied advanced prompt engineering techniques to optimize LLM outputs for specific use cases.
+
+**Independent Technical Researcher & Writer** · *Freelance* _(Jan 2024 – Nov 2025)_
+* Wrote deep-dive articles simplifying AI/ML, web development, and defense technology concepts.
+* Conducted RAG research to improve LLM accuracy and mitigate hallucination rates.
+* Built full-stack prototypes using MERN and Python to explore AI systems.
 
 ---
 
