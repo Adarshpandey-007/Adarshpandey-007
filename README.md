@@ -184,13 +184,13 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Adarshpandey-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshpandey-007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Adarshpandey-007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshpandey-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adarshpandey-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
