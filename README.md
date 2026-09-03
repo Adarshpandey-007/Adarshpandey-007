@@ -50,9 +50,9 @@
 
 #### **LLM Post-Training Intern** · *Ethara AI (Green Rider Technology LLP)*  
 *Feb 2026 – May 2026*
-* Built Python data curation pipelines with Hugging Face to improve LLM safety, steerability, and instruction fidelity.
-* Developed systematic evaluation frameworks and test suites to benchmark output accuracy and reduce hallucination rates.
-* Implemented SFT (Supervised Fine-Tuning) and DPO (Direct Preference Optimization) workflows producing structured, production-ready outputs.
+* Built Python data curation pipelines with Hugging Face and generated high-quality multi-domain prompt-response datasets on Multimango to support SFT and RLHF pipelines.
+* Conducted systematic benchmarking and hallucination testing on SOTA LLMs using EVALS frameworks, applying multi-dimensional scoring rubrics (1–6 scale) for quality compliance.
+* Contributed to Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) alignment workflows, collaborating cross-functionally to refine guidelines and ensure consistent, production-ready outputs.
 
 #### **Generative AI Intern** · *SURE proED*  
 *Oct 2025 – Dec 2025*
