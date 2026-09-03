@@ -48,7 +48,7 @@
 
 ### Work Experience
 
-#### **SWE AI Intern** · *Ethara AI (Green Rider Technology LLP)*  
+#### **LLM Post-Training Intern** · *Ethara AI (Green Rider Technology LLP)*  
 *Feb 2026 – May 2026*
 * Built Python data curation pipelines with Hugging Face to improve LLM safety, steerability, and instruction fidelity.
 * Developed systematic evaluation frameworks and test suites to benchmark output accuracy and reduce hallucination rates.
