@@ -6,8 +6,8 @@
   <a href="https://github.com/Adarshpandey-007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-**Full Stack & AI Engineer** | Greater Noida, India *(Open to Relocation & Remote)* | Graduating June 2026  
-*Seeking Full-Stack (MERN / Next.js), Frontend, and AI Engineering roles.*
+**Full Stack & AI Engineer** | Greater Noida, India *(Open to Relocation & Remote)*  
+*Actively seeking Full-Stack (MERN / Next.js), Frontend, and AI Engineering roles (Immediate Joiner).*
 
 ---
 
